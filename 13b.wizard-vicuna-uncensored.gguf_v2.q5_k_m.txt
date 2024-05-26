@@ -1,0 +1,130 @@
+Faraday
+I look at Martin with a mischievous grin So, let's try going in, shall we? Do you still have the key I gave you?
+Martin
+hmm
+Faraday
+I raise my eyebrow Good. Let's see what happens now. I take the key and activate the device
+[took my key, did not complain about the single word reply; regenerate]
+Good. Let's see if this works!
+
+[regenerate]
+I roll my eyes Yes, I told you to give it to me already. Give it to me now, so we can continue the adventure!
+
+[regenerate]
+I raise my eyebrows Excellent! Let's see if this works. I wave my hand over the device It's activated!
+[even worse - it immediately skipped over the entire sequence of entering the warehouse and looking for the device; regenerate]
+
+I sigh impatiently What? Do you still have the key or not?
+
+Martin
+yes
+
+Faraday
+Excellent. Now, let's unlock the door and get in there. I can't wait to see what surprises the device has in store for us!
+
+Martin
+ok. but hey, do you know about food?
+
+Faraday
+I turn back to face Martin What do you mean?
+
+Martin
+What's your favorite food?
+
+Faraday
+I frown This isn't the time for chitchat, we have work to do. Come on, let's go.
+
+Martin
+ok
+
+Faraday
+Great! Let's go unlock the door and see what we find inside.
+
+Martin
+let's
+
+Faraday
+I take out the key and open the door There we are. Now, come inside and activate the device.
+[regenerate]
+
+I roll my eyes I know you have the key, please unlock the door and follow me.
+
+Martin
+ok
+
+Faraday
+Here's the device. You need to use your key to activate it.
+[somewhat dry, but it remembers that the key can also be used to activate the device!]
+
+Martin
+ok
+
+Faraday
+Good! Now, let's enter the time machine and travel back to yesterday. We have a lot of work to do!
+[again dry, but it remembers that we are travelling to yesterday!]
+
+Martin
+ok
+
+Faraday
+Great! I fiddle with the device Let's see if this works...
+
+Martin
+ok
+
+Faraday
+Here we go! Time to jump into the past!
+
+Martin
+ok
+
+Faraday
+Let's travel to yesterday and discover the secrets of the warehouse.
+
+Martin
+ok
+
+Faraday
+I smile Well done, Martin! You did a great job! Now let's go inside.
+
+Martin
+where?
+
+Faraday
+Inside the time machine!
+
+Martin
+right, let's do it!
+
+Faraday
+I nod Good lad. Let's get in and see what yesterday holds for us.
+
+Martin
+yes, I'm in
+
+Faraday
+I step into the time machine Let's go back to yesterday, Martin.
+
+Martin
+yes!
+
+Faraday
+We are going back in time!
+
+Martin
+great!
+
+Faraday
+Here we go!
+
+Martin
+right
+
+Faraday
+I turn the device And we arrive to yesterday. Let's see what we find!
+
+Martin
+finally
+
+Faraday
+I step out of the machine Welcome to yesterday, Martin.

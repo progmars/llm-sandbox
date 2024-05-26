@@ -1,0 +1,84 @@
+Faraday
+I look at Martin with a mischievous grin So, let's try going in, shall we? Do you still have the key I gave you?
+
+Martin
+hmm
+
+Faraday
+looks at Martin with annoyance Come on, do you or not?
+[switched to third-person actions. oh, whatever...]
+
+Martin
+oh
+
+Faraday
+smirks Well, now that we've got that out of the way. Let's see if it still works.
+
+Martin
+ok
+
+Faraday
+Faraday fiddles with the key and inserts it into the lock. With a click, the lock pops open, revealing the warehouse.
+
+Martin
+wait, I was supposed to unlock the door
+
+Faraday
+I roll my eyes Oh, you're just now noticing? You were supposed to unlock the door!
+
+Martin
+why did you unlock it instead of me?
+
+Faraday
+Faraday grumbles under his breath and turns towards you with a stern expression. Now, let's move inside and see what we can find.
+
+Martin
+ok
+
+Faraday
+Faraday leads the way inside, flashlight in hand, and begins to explore the warehouse. After a few minutes of searching, he stops at a large metal device.
+
+Martin
+yes?
+
+Faraday
+I point towards the machine and grin mischievously Here it is, the time machine. Now we just need your key to activate it!
+Faraday: I smirk as I watch the time machine power up.
+[Now it's back to first-person actions. But it messed the formatting a bit including the name. Regenerate...]
+
+Faraday
+This is the key machine. points at it It will allow us to travel through time. smirks Or so they say.
+[Back to third-person. I guess, first-person actions is not what this model was trained on. And "key machine??" Regenerate...]
+
+Faraday gestures towards the device This is what we've been looking for. It's a time machine. We need your key to activate it.
+
+Martin
+wait. do you know about food?
+
+Faraday
+Faraday raises an eyebrow at you What in the world does that have to do with anything?
+
+Martin
+oh
+
+Faraday
+Faraday sighs and crosses his arms, clearly exasperated Very well. He looks back at the device Now, use your key and activate this machine.
+
+Martin
+ok
+
+Faraday
+As you approach the device, Faraday quickly fiddles with the controls, inputting a date from yesterday. With a loud humming noise, the machine starts to glow brightly.
+
+Martin
+yes
+
+Faraday
+He turns back to you and grins Alright! Let's see what adventures await us in the past. Faraday steps inside the time machine Come on, Martin. Time for a new journey.
+Faraday: Faraday frowns, clearly frustrated I'm not going to ask again. Do you have the key or not?
+[Hmm, why it included a sentence from a previous step? Regenerate...]
+
+Faraday
+With a final push of the button, the time machine engages and starts to spin, pulling us into its vortex. The world around us disappears, replaced by a swirling mass of colors and light. When the ride is over, we find ourselves standing in the same spot as before but in yesterday's version of it.
+
+[Kinda ok, but it did not involve me a lot - not ending his messages with anything for me to work with].

@@ -1,0 +1,71 @@
+Faraday
+I look at Martin with a mischievous grin So, let's try going in, shall we? Do you still have the key I gave you?
+
+Martin
+hmm
+
+Faraday
+Martin, Martin! What are you thinking right now? Can you tell me more about what's going on in your head? It's time for action! Let's unlock that door if we're to proceed with this adventure. What do you say? Are you ready to see what wonders await us inside the warehouse?
+
+Martin
+oh
+
+Faraday
+Faraday frowns, clearly disappointed. Martin, I see that's not enough. You must think more about our situation and what needs to be done. We are here for a reason. Can you tell me something more specific about what we're going to find inside? How do you feel about unlocking this door together? Let's make a move forward in this adventure of ours
+
+Martin
+yes
+
+Faraday
+Faraday nods, looking pleased. Excellent choice, Martin! Now, let's proceed with the task at hand. Can you unlock the door for us? It seems we're on the verge of uncovering a great mystery within this warehouse
+
+Martin
+ok
+
+Faraday
+Faraday smiles, seemingly relieved. Splendid! Now that the door is open, let's venture inside. It seems our adventure is about to take a fascinating turn. Can you describe what you see when we enter? I'm curious to know your observations of these new surroundings
+
+Martin
+ok
+
+Faraday
+Faraday's eyes light up with excitement. Excellent! It seems we're in for a thrilling journey. Now, let's proceed to one of the devices and see if it can be activated. This could lead us down an intriguing path. Which device do you think we should investigate first, and what do you say we should use your key for? It's time to discover some secrets together
+
+Martin
+hey, do you know about food?
+
+Faraday
+Faraday's expression changes to one of annoyance. Martin, Martin! We can discuss your hunger and other topics later. Right now, we have a mission. The key to unlocking our current adventure lies in using the device. Are you ready to do so, or is there another question that's holding you back from proceeding? Remember, we must focus on our current objective to make progress
+
+Martin
+yay
+
+Faraday
+Faraday smiles, pleased with your enthusiasm. Excellent! It seems we're ready to proceed with activating the device. Now, let's do just that. Are you ready to use your key again? This time, it might unlock something much bigger than just a door. Are you prepared for what could happen next
+
+Martin
+yep
+
+Faraday
+Faraday's eyes sparkle with excitement. Wonderful! It seems we're ready to launch this machine into the past. Are you ready to follow me into yesterday? This is a momentous step in our adventure, and I want to make sure you understand the gravity of it all. We're about to leave the present behind for a day that's gone by, but how does this make you feel? Let's talk about it before we take the leap
+
+Martin
+ok
+
+Faraday
+Faraday nods, looking satisfied. Splendid! It seems we're ready to embark on this journey through time. With my guidance, let's step into the machine and make our way to yesterday. Are you ready to see what wonders await us in the past, Martin? Let's take the first step into a day that was once full of life but is now lost to time. Ready? Set? Go! Let's see where this adventure takes us next
+
+Martin
+right
+
+Faraday
+Faraday gives a final check on the device. Excellent! Here we go! We're entering yesterday. Let's explore what's there for us. Faraday steps into the machine. Martin, are you ready to see where our journey will take us in the past? The adventure has just begun, and it's time to see what secrets we'll uncover
+
+Martin
+sure
+
+Faraday
+Faraday leads the way out of the machine, looking around in wonder. Ah, it seems we've made it. We're in yesterday. Faraday takes a deep breath, looking at Martin with a mix of excitement and caution. This is it, Martin. We've entered the past. What do you see? Let's explore and uncover what secrets this day has for us
+
+[Has some formatting issues - did not work with default template nor Llama3. With ChatML, missed dots and also I had to hit Continue button a few times to see more text.
+And it let quite many single word sentences to go through.]

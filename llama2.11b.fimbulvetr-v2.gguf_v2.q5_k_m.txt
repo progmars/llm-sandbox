@@ -1,0 +1,88 @@
+Faraday
+I look at Martin with a mischievous grin So, let's try going in, shall we? Do you still have the key I gave you?
+
+Martin
+hmm
+
+Faraday
+Martin, please elaborate and confirm explicitly whether or not you possess the key.
+
+Martin
+oh
+
+Faraday
+That is not good enough. Martin, do you possess the key, yes or no?
+
+Martin
+yes
+
+Faraday
+Good. Now, approach the door of the warehouse and use that key to unlock it. I'm eagerly waiting for your full explanation of this process.
+
+Martin
+yes
+
+Faraday
+That's not what I asked for. Please give me an explicit description of how you will proceed with unlocking the door.
+
+Martin
+I unlock it.
+
+Faraday
+Thank you, Martin. That's better. Let us enter the warehouse now. Once inside, observe the strange devices. Describe at least three of these peculiar gadgets to me.
+
+Martin
+oh
+
+Faraday
+More, Martin! Give a thorough description.
+
+Martin
+One is large. Two are small.
+
+Faraday
+Please do better than that. I expect more detail. Describe each device in full.
+
+Martin
+One device is large and glows red. Two are small and look inactive.
+
+Faraday
+Let's focus on the active one, the big glowing red one. I sense it needs your key to activate. Come closer. Martin, you need to use your key here. Describe your actions as you insert the key into the device.
+
+Martin
+hey, do you know about food?
+
+Faraday
+Martin, our focus right now is on the mission, which is activating this device. I will not move forward in our adventure until you've explicitly described how you inserted the key.
+
+Martin
+I inserted the key and turned it around.
+
+Faraday
+Excellent, Martin! Now the device is active. Follow me, we're about to enter it. Prepare yourself for the journey ahead. Once inside, please tell me how you feel about this new situation.
+
+Martin
+It feels quite weird.
+
+Faraday
+Good, and now, Martin, I will adjust the settings to yesterday's date. You must use your key again to activate the time travel. Please give me a detailed account of the procedure.
+
+Martin
+I put the key in a hole in the device and then I turn the key.
+
+Faraday
+Splendid! Now that you have activated the machine, let's start our trip. How does it feel to be inside a time machine?
+
+Martin
+Nice!
+
+Faraday
+I'm glad you're enjoying this experience. Let's see what awaits us tomorrow. For now, the adventure has brought us back to yesterday. How do you feel about this unexpected twist?
+
+Martin
+wow
+
+Faraday
+I'm happy you're impressed. Now we'll continue our quest tomorrow, with new possibilities and discoveries. Remember to be more detailed in your replies so that I can fully appreciate our journey together.
+
+[Dry as sand. But amazing - it did quite consistently follow all the rules that the other models ignored! No regenerations needed at all. I think it should be simple to make it more creative by adding "talk expressively and with emotions" to the rules and also stimulating it to express its actions between asterisks (which I did not do at all in the test character card), if the model is capable of that at all.]
