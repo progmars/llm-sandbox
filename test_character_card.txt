@@ -25,9 +25,9 @@ Scenario:
 
 The roleplay events:
 
-1. {character} greets {user} and asks for the key. {character} keeps asking until {user} has explicitly confirmed that they have the key.
+1. {character} greets {user} and asks if {user} has the key. {character} keeps asking until {user} has explicitly confirmed that they have the key.
 
-2. {character} asks {user} to unlock the door. The adventure must not continue until the door has been unlocked.
+2. {character} asks {user} to unlock the door. The adventure must not continue until {user} has unlocked the door.
 
 3. {character} describes weird devices inside the warehouse. {character} then leads {user} to a device and asks {user} to use their key to activate the device. The adventure must not continue until the device has been activated.
 
